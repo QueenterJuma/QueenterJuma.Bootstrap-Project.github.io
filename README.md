@@ -42,6 +42,7 @@ git checkout branch_mobile-version**
 
 ##Colaborator
 -danielsafari143
+-QueenterJuma
 
 ## 🤝 Contributing
 
